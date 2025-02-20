@@ -80,7 +80,7 @@ This project, developed for the TripleTen Data Science course, focuses on automa
 - Successful achievement of target F1-score ≥ 0.85
 - Demonstrated model robustness on new reviews
 
-1. Click [here](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) to open the OneDrive link.
+1. Click <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">here</a> to open the OneDrive link.
 2. Navigate to the `Sprint_14` directory and download the `datasets` folder.
 3. Move the downloaded `datasets` folder into the `Sprint_14` directory where you cloned this project.
 4. Open the `.ipynb` file of your preferred language and run the project.
@@ -168,7 +168,7 @@ Projeto desenvolvido para o curso de Ciência de Dados da TripleTen, focado na c
 ### **Instruções para Acesso ao Dataset**
 Para conseguir executar esse projeto é necessário que você tenha acesso aos dados utilizados. Entretanto, devido ao tamanho dos arquivos, não foi possível subir para o GitHub. Para acessá-los, siga estas etapas:
 
-1. Clique [aqui](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) para acessar o link do OneDrive.
+1. Clique <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">aqui</a> para acessar o link do OneDrive.
 2. Entre no diretório `Sprint_14` e baixe o diretório `datasets`.
 3. Vá até o diretório onde você clonou este projeto e cole a pasta `datasets` dentro do diretório `Sprint_14`.
 4. Abra o arquivo `.ipynb` do idioma de sua escolha e execute normalmente o projeto.
@@ -255,7 +255,7 @@ Proyecto desarrollado para el curso de Ciencia de Datos de TripleTen, enfocado e
 ### **Instrucciones para Acceder al Dataset**
 Para ejecutar este proyecto, debe tener acceso a los datos utilizados. Sin embargo, debido al tamaño de los archivos, no se pudieron cargar en GitHub. Para acceder a ellos, siga estos pasos:
 
-1. Haga clic [aquí](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) para acceder al enlace de OneDrive.  
+1. Haga clic <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">aquí</a> para acceder al enlace de OneDrive.  
 2. Ingrese al directorio `Sprint_14` y descargue el directorio `datasets`.  
 3. Vaya al directorio donde clonó este proyecto y pegue la carpeta `datasets` dentro del directorio `Sprint_14`.  
 4. Abra el archivo `.ipynb` en el idioma de su elección y ejecute el proyecto normalmente.  

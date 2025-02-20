@@ -41,7 +41,7 @@ This project provided hands-on experience with real-world data science challenge
 ### **Dataset Access Instructions**
 To run this project, you need access to the dataset used. However, due to file size limitations, it could not be uploaded to GitHub. To access the dataset, follow these steps:
 
-1. Click [here](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) to open the OneDrive link.
+1. Click <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">here</a> to open the OneDrive link.
 2. Navigate to the `Sprint_15` directory and download the `datasets` folder.
 3. Move the downloaded `datasets` folder into the `Sprint_15` directory where you cloned this project.
 4. Enter the `datasets` folder and extract the contents of the `data.zip` file.
@@ -90,7 +90,7 @@ Este projeto proporcionou experiência prática com desafios reais de ciência d
 ### **Instruções para Acesso ao Dataset**
 Para conseguir executar esse projeto é necessário que você tenha acesso aos dados utilizados. Entretanto, devido ao tamanho dos arquivos, não foi possível subir para o GitHub. Para acessá-los, siga estas etapas:
 
-1. Clique [aqui](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) para acessar o link do OneDrive.
+1. Clique <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">aqui</a> para acessar o link do OneDrive.
 2. Entre no diretório `Sprint_15` e baixe o diretório `datasets`.
 3. Vá até o diretório onde você clonou este projeto e cole a pasta `datasets` dentro do diretório `Sprint_15`.
 4. Acesse o diretório `datasets` e extraia o conteúdo do arquivo `data.zip`.
@@ -125,7 +125,7 @@ Proyecto del curso de Ciencia de Datos de TripleTen, enfocado en **Visión Compu
 ### **Instrucciones para Acceder al Dataset**
 Para ejecutar este proyecto, debe tener acceso a los datos utilizados. Sin embargo, debido al tamaño de los archivos, no se pudieron cargar en GitHub. Para acceder a ellos, siga estos pasos:
 
-1. Haga clic [aquí](https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5) para acceder al enlace de OneDrive.
+1. Haga clic <a href="https://1drv.ms/f/s!AsjCMhySSWhFg5RuJIev0HIha_JXZQ?e=5lLjo5" target="_blank" rel="noopener noreferrer">aquí</a> para acceder al enlace de OneDrive.
 2. Descargue la carpeta `datasets` dentro del directorio `Sprint_15`.
 3. Copie la carpeta `datasets` en el directorio `Sprint_15` del proyecto clonado.
 4. Extraiga el contenido del archivo `data.zip` dentro del directorio `datasets`.
